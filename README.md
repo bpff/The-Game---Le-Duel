@@ -1,2 +1,2 @@
-# The-Game---Le-Duel
-Un jeu de cartes programmé en Java
+# The Game - Le Duel
+ Un jeu de cartes programmé en java
